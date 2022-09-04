@@ -28,7 +28,7 @@ To train our model, please use the following command, for example, " python Fan_
 
 To evaluate our proposed LiVu-ITCL method performance, please use the following command, for example, " python Fan_data_train_evaluate.py --lr=1e-4 --sigma=1e-1 --tau=0.5 --temp=0.5 --dim_dnn=300 --clusters=7 --home_dir=./Fan_data_results/ --do_eval ".
 
-To get the results for the main measures of fine-grained vulnerability detection including VCP, VCA, Top-10 accuracy (Top-10 ACC), and IFA, please use the following command, for example, " python Fan_data_VCP_VCA_TopK_IFA.py './Fan_data_results/ ".
+To get the results for the main measures of fine-grained vulnerability detection including VCP, VCA, Top-10 accuracy (Top-10 ACC), and IFA, please use the following command, for example, " python Fan_data_VCP_VCA_TopK_IFA.py './Fan_data_results/' ".
 
 ## The model configuration 
 
