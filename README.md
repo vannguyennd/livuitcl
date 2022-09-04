@@ -4,13 +4,13 @@ The source code samples for reproducing the experimental results mentioned in ou
 
 ## Datasets 
 
-We used three real-world datasets including the CWE-399 dataset with 1,010 and 1,313 vulnerable/non- vulnerable functions for resource management error vulnerabilities, the CWE-119 dataset with 5,582 and 5,099 vulnerable/non-vulnerable functions for the buffer error vulnerabilities , and a big C/C++ dataset provided by Fan et al. (2020) containing many types of vulnerabilities such as Out-of-bounds Write, Improper Input Validation, and Path
+We used three real-world datasets including the CWE-399 dataset with 1,010 and 1,313 vulnerable/non-vulnerable functions for resource management error vulnerabilities, the CWE-119 dataset with 5,582 and 5,099 vulnerable/non-vulnerable functions for the buffer error vulnerabilities, and a big C/C++ dataset provided by Fan et al. (2020) containing many types of vulnerabilities such as Out-of-bounds Write, Improper Input Validation, and Path
 Traversal. For the CWE-399 and CWE-199 datasets collected by Li et al. (2018), we used the ones processed by Nguyen et al. (2021). Additionally, the Fan et al.’s dataset is considered as one of the largest vulnerability datasets that includes the ground truth at the statement level. The dataset is collected
 from 348 open-source Github projects from 2002 to 2019. It consists of 188,636 C/C++ source code functions where a ratio of vulnerable functions is 5.7% (i.e., 10,900 vulnerable functions).
 
 ## Requirements 
 
-We implemented our LiVu-ITCL method using Tensorflow (Abadi et al. 2016) (version 2.5) and Python (version 3.8). Other required packages are scikit-learn, numpy, scipy and pickle.
+We implemented our LiVu-ITCL method using Tensorflow (Abadi et al. 2016) (version 2.5) and Python (version 3.8). Other required packages are scikit-learn, numpy, scipy, and pickle.
 
 ## Running source code samples
 
