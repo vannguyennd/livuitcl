@@ -1,6 +1,6 @@
 # LiVu-ITCL
 
-The source code samples for reproducing the experimental results mentioned in our paper "An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability".
+The source code samples for reproducing the experimental results mentioned in our paper "An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability". Refer to http://arxiv.org/abs/2209.10414 for details.
 
 ## Datasets 
 
