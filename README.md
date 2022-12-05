@@ -33,3 +33,15 @@ To get the results for the main measures of fine-grained vulnerability detection
 ## The model configuration 
 
 For the LiVu-ITCL model configuration, please read the Model configuration section in the appendix of our paper for details.
+
+## Citation
+
+If you reference (and/or) use our source code samples in your work, please kindly cite our paper.
+
+@misc{vannguyen-livuitcl-2022,
+  author = {Nguyen, Van and Le, Trung and Tantithamthavorn, Chakkrit and Grundy, John and Nguyen, Hung and Camtepe, Seyit and Quirk, Paul and Phung, Dinh},
+  title = {An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
