@@ -36,7 +36,7 @@ For the LiVu-ITCL model configuration, please read the Model configuration secti
 
 ## Citation
 
-If you reference (and/or) use our source code samples in your work, please kindly cite our paper.
+If you reference our paper (and/or) use our source code samples in your work, please kindly cite our paper.
 
 @article{vannguyen-livuitcl-2022,<br/>
   doi = {10.48550/ARXIV.2209.10414},<br/>
