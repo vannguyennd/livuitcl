@@ -38,7 +38,9 @@ For the LiVu-ITCL model configuration, please read the Model configuration secti
 
 If you reference (and/or) use our source code samples in your work, please kindly cite our paper.
 
-@misc{vannguyen-livuitcl-2022,<br/>
+@article{vannguyen-livuitcl-2022,<br/>
+  doi = {10.48550/ARXIV.2209.10414},<br/>
+  url = {https://arxiv.org/abs/2209.10414},<br/>
   author = {Nguyen, Van and Le, Trung and Tantithamthavorn, Chakkrit and Grundy, John and Nguyen, Hung and Camtepe, Seyit and Quirk, Paul and Phung, Dinh},<br/>
   title = {An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability},<br/>
   publisher = {arXiv},<br/>
