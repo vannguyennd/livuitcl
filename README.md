@@ -1,4 +1,4 @@
-# LiVu-ITCL
+# LiVu-ITCL (LEAP)
 
 The source code samples for reproducing the experimental results mentioned in our paper "An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability". Refer to http://arxiv.org/abs/2209.10414 for details.
 
@@ -41,7 +41,7 @@ If you reference our paper (and/or) use our source code samples in your work, pl
 @article{vannguyen-livuitcl-2022,<br/>
   doi = {10.48550/ARXIV.2209.10414},<br/>
   url = {https://arxiv.org/abs/2209.10414 },<br/>
-  author = {Nguyen, Van and Le, Trung and Tantithamthavorn, Chakkrit and Grundy, John and Nguyen, Hung and Camtepe, Seyit and Quirk, Paul and Phung, Dinh},<br/>
+  author = {Nguyen, Van and Le, Trung and Tantithamthavorn, Chakkrit and Fu, Michael and Grundy, John and Nguyen, Hung and Camtepe, Seyit and Quirk, Paul and Phung, Dinh},<br/>
   title = {An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability},<br/>
   publisher = {arXiv},<br/>
   year = {2022},<br/>
