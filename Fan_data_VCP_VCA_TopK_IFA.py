@@ -2,7 +2,6 @@ import os
 import numpy as np
 import argparse
 
-
 def get_selected_lines(lines, args):
     selected_line = []
     find_sl = False
@@ -463,7 +462,6 @@ def main():
         compute_VCA(i_list_folders, i_folder, result_file, all_folders, args)
         compute_TOPK_ACC(i_list_folders, i_folder, result_file, all_folders, args)
         compute_IFA(i_list_folders, i_folder, result_file, all_folders, args)
-
 
 if __name__ == "__main__":
     main()
