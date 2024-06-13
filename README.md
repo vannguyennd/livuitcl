@@ -42,6 +42,6 @@ If you reference our paper (and/or) use our source code samples in your work, pl
   author = {Nguyen, Van and Le, Trung and Tantithamthavorn, Chakkrit and Fu, Michael and Grundy, John and Nguyen, Hung and Camtepe, Seyit and Quirk, Paul and Phung, Dinh},<br/>
   title = {An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability},<br/>
   publisher = {arXiv},<br/>
-  year = {2022},<br/>
+  year = {2024},<br/>
   copyright = {Creative Commons Attribution 4.0 International}<br/>
 }
