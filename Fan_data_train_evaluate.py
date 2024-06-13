@@ -14,7 +14,6 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
 import os
-import tensorflow as tf
 from Utils import read_and_load_data_tvt_combine, create_data_from_score, isNaN
 
 tf.random.set_seed(10086)
