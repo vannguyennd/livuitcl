@@ -36,7 +36,7 @@ For the LiVu-ITCL (LEAP) model configuration, please read the Model configuratio
 
 If you reference our paper (and/or) use our source code samples in your work, please kindly cite our paper.
 
-@article{vannguyen-livuitcl-2022,<br/>
+@article{vannguyen-livuitcl-leap,<br/>
   doi = {10.48550/ARXIV.2209.10414},<br/>
   url = {https://arxiv.org/abs/2209.10414 },<br/>
   author = {Nguyen, Van and Le, Trung and Tantithamthavorn, Chakkrit and Fu, Michael and Grundy, John and Nguyen, Hung and Camtepe, Seyit and Quirk, Paul and Phung, Dinh},<br/>
