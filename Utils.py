@@ -5,7 +5,6 @@ import scipy.io as io
 import tensorflow as tf
 import os
 
-
 def read_and_load_data_tvt_combine(max_statements, max_length_statements):
     dir_path =  'Fan_dataset/'
 
