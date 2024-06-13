@@ -36,12 +36,11 @@ For the LiVu-ITCL (LEAP) model configuration, please read the Model configuratio
 
 If you reference our paper (and/or) use our source code samples in your work, please kindly cite our paper.
 
-@article{vannguyen-livuitcl-leap,<br/>
-  doi = {10.48550/ARXIV.2209.10414},<br/>
-  url = {https://arxiv.org/abs/2209.10414 },<br/>
-  author = {Nguyen, Van and Le, Trung and Tantithamthavorn, Chakkrit and Fu, Michael and Grundy, John and Nguyen, Hung and Camtepe, Seyit and Quirk, Paul and Phung, Dinh},<br/>
-  title = {An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability},<br/>
-  publisher = {arXiv},<br/>
-  year = {2024},<br/>
-  copyright = {Creative Commons Attribution 4.0 International}<br/>
+@misc{nguyen2024statementlevel,<br/>
+      title={Statement-Level Vulnerability Detection: Learning Vulnerability Patterns Through Information Theory and Contrastive Learning},<br/>
+      author={Van Nguyen and Trung Le and Chakkrit Tantithamthavorn and Michael Fu and John Grundy and Hung Nguyen and Seyit Camtepe and Paul Quirk and Dinh Phung},<br/>
+      year={2024},<br/>
+      eprint={2209.10414},<br/>
+      archivePrefix={arXiv},<br/>
+      primaryClass={cs.CR}<br/>
 }
